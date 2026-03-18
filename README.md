@@ -34,19 +34,19 @@ This repository contains my Computer Networks course lab assignments completed u
 
 ## 📸 Lab Previews
 
-### Lab 1: Basic IP Addressing
+#### Lab 1: Basic IP Addressing
 ![lab 1](README_IMAGES/lab-01-basic-addressing.png)
 
-### Lab 2: PC Network Configuration
+#### Lab 2: PC Network Configuration
 ![lab 2](README_IMAGES/lab-02-pc-configuration.png)
 
-### Lab 3: EIGRP Configuration Success
+#### Lab 3: EIGRP Configuration Success
 ![lab 3](README_IMAGES/lab-03-eigrp-configuration.png)
 
-### Lab 4: Advanced Routing & Subnetting
+#### Lab 4: Advanced Routing & Subnetting
 ![lab 4](README_IMAGES/lab-04-advanced-routing.png)
 
-### Lab 5: Final Network Implementation
+#### Lab 5: Final Network Implementation
 ![lab 5](README_IMAGES/lab-05-final-implementation1.png)
 ![lab 5](README_IMAGES/lab-05-final-implementation2.png)
 
