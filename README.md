@@ -6,11 +6,11 @@ This repository contains my Computer Networks course lab assignments completed u
 
 | Lab | Topic | Description |
 |-----|-------|-------------|
-| [Lab 01](./lab-01-basic-addressing) | Basic IP Addressing | Introduction to IP addressing and basic network topology |
-| [Lab 02](./lab-02-pc-configuration) | PC Network Configuration | Configuring multiple PCs in a network |
-| [Lab 03](./lab-03-eigrp-configuration) | EIGRP Routing Protocol | Implementing EIGRP for dynamic routing |
-| [Lab 04](./lab-04-advanced-routing) | Advanced Routing & Subnetting | Complex subnetting scenarios and routing |
-| [Lab 05](./lab-05-final-implementation) | Complete Network Implementation | Final comprehensive network design |
+| [Lab 01](./lab-01-basic-addressing.pkt) | Basic IP Addressing | Introduction to IP addressing and basic network topology |
+| [Lab 02](./lab-02-pc-configuration.pkt) | PC Network Configuration | Configuring multiple PCs in a network |
+| [Lab 03](./lab-03-eigrp-configuration.pkt) | EIGRP Routing Protocol | Implementing EIGRP for dynamic routing |
+| [Lab 04](./lab-04-advanced-routing.pkt) | Advanced Routing & Subnetting | Complex subnetting scenarios and routing |
+| [Lab 05](./lab-05-final-implementation.pkt) | Complete Network Implementation | Final comprehensive network design |
 
 ## 🛠️ Tools Used
 - **Cisco Packet Tracer** - Network simulation tool
